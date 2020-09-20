@@ -11,3 +11,4 @@ before starting enter "CREATE DATABASE delta1;" in your sql server to create a d
 );"-------Then enter this in your database sql page to create a table users in delta1 database to store user login values
 then finally use login.php or register.php to enter into the website
 You can even change the name of database but remember to edit it in db.php
+and finally admin password=admin
